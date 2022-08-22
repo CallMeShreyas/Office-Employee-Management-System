@@ -74,8 +74,6 @@ prometheus-client==0.14.1
 prompt-toolkit==3.0.29
 psutil==5.9.0
 psycopg2==2.9.3
-pure-eval==0.2.2
-PyAutoGUI==0.9.53
 pywin32==304
 pywinpty==2.0.5
 PyYAML==6.0
