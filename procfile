@@ -1,1 +1,1 @@
-web:gunicorn Employee_Mang_System.wsgi
+web: gunicorn Employee_Mang_System.wsgi
