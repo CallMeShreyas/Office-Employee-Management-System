@@ -87,7 +87,6 @@ PyMsgBox==1.0.9
 pyparsing==3.0.7
 pyperclip==1.8.2
 PyRect==0.1.4
-pyrsistent==0.18.1
 pywin32==304
 pywinpty==2.0.5
 PyYAML==6.0
